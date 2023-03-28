@@ -1,11 +1,11 @@
 {
-  "name": "my-extension",
-  "displayName": "My-Extension",
-  "displayName:zh-CN": "我的扩展",
-  "version": "0.1.0",
+  "name": "hacker-news-apps-switcher",
+  "displayName": "Hacker News Apps Switcher",
+  "displayName:zh-CN": "Hacker News 网站切换器",
+  "version": "0.0.1",
   "description": "try to take over the world!",
   "description:zh-CN": "掌控一切！",
-  "author": "You",
+  "author": "Pipecraft",
   "license": "MIT",
   "scripts": {
     "p": "prettier --write .",
